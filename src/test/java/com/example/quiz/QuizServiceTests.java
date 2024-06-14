@@ -110,5 +110,8 @@ public class QuizServiceTests {
 		Assert.isTrue(res.getStatsCode() == 200, "create test false!!");
 	}
 	
-
+	@Test
+	public void updateTest1() {
+		System.out.println("============================");
+	}
 }
